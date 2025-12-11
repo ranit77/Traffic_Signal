@@ -1,0 +1,58 @@
+#box
+{
+  height:290px;
+  width:100px;
+  border-radius:35%;
+  background-color:black;
+  margin-left:880px;
+}
+#box1
+{
+  display:inline-block;
+  height:50px;
+  width:50px;
+  border-radius:50%;
+  background-color:rgb(255,0,0);
+  position:absolute;
+  margin-left:25px;
+  margin-top:50px;
+}
+#box2
+{
+  display:inline-block;
+  height:50px;
+  width:50px;
+  border-radius:50%;
+  background-color:rgb(255,255,0);
+  position:absolute;
+  margin-left:25px;
+  margin-top:120px;
+}
+#box3
+{
+  display:inline-block;
+  height:50px;
+  width:50px;
+  border-radius:50%;
+  background-color:rgb(0,255,0);
+  position:absolute;
+  margin-left:25px;
+  margin-top:190px;
+}
+#stand
+{
+  height:140px;
+  width:10px;
+  background-color:black;
+  margin-left:925px;
+  position:absolute;
+}
+#road
+{
+  height:30px;
+  width:100vw;
+  background-color:grey;
+  color:pink;
+  text-align:center;
+  margin-top:140px;
+}

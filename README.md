@@ -46,3 +46,11 @@ Pixel-perfect alignment of signal lights inside the panel
 Styled road section with centered label
 
 Demonstrates understanding of CSS rendering flow and stacking context
+
+### Screenshot
+
+<img width="1866" height="463" alt="image" src="https://github.com/user-attachments/assets/f54ff4b6-1e9a-41d1-9531-5599adaa440f" />
+
+![AtTheCylinderOfEventsAtcoeGIF](https://github.com/user-attachments/assets/1c8a63c7-9aeb-4a15-af4e-0cab451c1a64)
+
+
